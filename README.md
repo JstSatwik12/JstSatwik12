@@ -1,7 +1,3 @@
-Hi There*👨🏻‍  
-
- About Me:👨🏻‍💻 
-
-🎓  I'm currently studying at Methodist School. 🌱  I'm on track for learning more about Data Structures and Algorithm • Software Development • Blender
-💡  Some technologies I enjoy working with include • Python3 • C# • JAVA • MYSQL 
-✉️  Get in touch with me via email at xeeclown@outlook.com.
+Hi there!🧑🏻‍💻
+I am Currently a High School Student. I am currently on track learning Ethical Hacking🧑🏻‍💻, SQL, Web Devolopment, Data Structures and Blender. Some of the languages I enjoy working on are: Python, Java, Kotlin, C#. I play games mostly such as Minecraft, Valorant, and Wobbly Life; 
+I am planning to make a setup using an: Xbox X Series, Macbook Pro, Alienware m16, a RGB Keyboard, RGB Mouse and a 4k Monitor. "§"
